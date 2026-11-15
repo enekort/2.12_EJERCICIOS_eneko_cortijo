@@ -1,2 +1,5 @@
 Este es el primer archivo de mi rama
 Estoy haciendo el paso 10
+Estoy realizando el paso 9
+Estoy aprendiendo a trabajar con ramas
+Estoy practicando los conflictos de Git
